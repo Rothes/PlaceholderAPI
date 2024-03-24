@@ -7,6 +7,8 @@
 
 [discord]: https://helpch.at/discord
 [spigot]: https://www.spigotmc.org/resources/6245/
+[hangar]: https://hangar.papermc.io/HelpChat/PlaceholderAPI
+[bbb]: https://builtbybit.com/resources/placeholderapi.24306
 [Expansions cloud]: https://api.extendedclip.com/home
 [placeholder list]: https://helpch.at/placeholders
 [statistics]: https://bstats.org/plugin/bukkit/PlaceholderAPI
@@ -15,10 +17,10 @@
 [ciImg]: http://ci.extendedclip.com/buildStatus/icon?job=PlaceholderAPI
 
 [APIversionImg]: https://img.shields.io/nexus/placeholderapi/me.clip/placeholderapi?server=https%3A%2F%2Frepo.extendedclip.com&label=API%20Version
-[logo]: https://raw.githubusercontent.com/PlaceholderAPI/PlaceholderAPI/wiki/img/papi-logo.png
+[logo]: https://wiki.placeholderapi.com/assets/img/papi-logo.png
 
 [contributing]: https://github.com/PlaceholderAPI/PlaceholderAPI/blob/master/.github/CONTRIBUTING.md
-[placeholderexpansion]: https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/PlaceholderExpansion
+[placeholderexpansion]: https://wiki.placeholderapi.com/developers/creating-a-placeholderexpansion/
 <!-- The stuff above isn't visible in the readme -->
 
 [![logo]][spigot]
@@ -47,4 +49,6 @@ If you would like to create your own Placeholder Expansion for PlaceholderAPI, t
 - [Expansions Cloud]
 - [Placeholder List]
 - [Spigot Page][spigot]
+- [Hangar Page][hangar]
+- [BuiltByBit Page][bbb]
 - [Plugin Statistics][statistics]
